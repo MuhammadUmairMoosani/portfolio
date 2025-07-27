@@ -54,7 +54,7 @@ export const EducationAndWork = () => {
                             data-widget_type="elementskit-icon-box.default"
                         >
                             <div className="ekit-wid-con">
-                                <a href="#" className="ekit_global_links">
+                                <a href="#work" className="ekit_global_links">
                                     <div className="elementskit-infobox text-left text-left icon-lef-right-aligin elementor-animation- media">
                                         <div className="elementskit-box-header elementor-animation-">
                                             <div className="elementskit-info-box-icon text-center">
@@ -121,7 +121,9 @@ export const EducationAndWork = () => {
                                     <div className="elementor-icon-box-wrapper">
                                         <div className="elementor-icon-box-content">
                                             <h3 className="elementor-icon-box-title">
-                                                <span>Virtual University of Pakistan</span>
+                                                <a href="https://www.vu.edu.pk/" target="_blank" rel="noopener noreferrer">
+                                                    <span>Virtual University of Pakistan</span>
+                                                </a>
                                             </h3>
                                             <p className="elementor-icon-box-description">
                                                 Bachelor of Science in Computer Science (BSCS)
@@ -145,9 +147,12 @@ export const EducationAndWork = () => {
                                     <div className="elementor-icon-box-wrapper">
                                         <div className="elementor-icon-box-content">
                                             <h3 className="elementor-icon-box-title">
-                                                <span>
-                                                    React Nanodegree
-                                                </span>
+
+                                                <a href="https://www.udacity.com/certificate/RPND6DUP" target="_blank" rel="noopener noreferrer">
+                                                    <span>
+                                                        React Nanodegree
+                                                    </span>
+                                                </a>
                                             </h3>
                                             <p className="elementor-icon-box-description">
                                                 Udacity
@@ -171,9 +176,11 @@ export const EducationAndWork = () => {
                                     <div className="elementor-icon-box-wrapper">
                                         <div className="elementor-icon-box-content">
                                             <h3 className="elementor-icon-box-title">
-                                                <span>
-                                                    Front End Developer Nanodegree
-                                                </span>
+                                                <a href="https://www.udacity.com/certificate/5CDPJH94" target="_blank" rel="noopener noreferrer">
+                                                    <span>
+                                                        Front End Developer Nanodegree
+                                                    </span>
+                                                </a>
                                             </h3>
                                             <p className="elementor-icon-box-description">
                                                 Udacity
@@ -224,7 +231,7 @@ export const EducationAndWork = () => {
                             data-widget_type="elementskit-icon-box.default"
                         >
                             <div className="ekit-wid-con">
-                                <a href="#" className="ekit_global_links">
+                                <a href="#work" className="ekit_global_links">
                                     <div className="elementskit-infobox text-left text-left icon-lef-right-aligin elementor-animation- media">
                                         <div className="elementskit-box-header elementor-animation-">
                                             <div className="elementskit-info-box-icon text-center">
@@ -303,7 +310,7 @@ export const EducationAndWork = () => {
                                     <div className="elementor-icon-box-wrapper">
                                         <div className="elementor-icon-box-content">
                                             <h3 className="elementor-icon-box-title">
-                                                <span>Digital Auxilius</span>
+                                                <a href="https://digitalauxilius.com/" target="_blank" rel="noopener noreferrer"><span>Digital Auxilius</span></a>
                                             </h3>
                                             <p className="elementor-icon-box-description">
                                                 Senior React Native Mobile App Engineer
@@ -338,7 +345,9 @@ export const EducationAndWork = () => {
                                     <div className="elementor-icon-box-wrapper">
                                         <div className="elementor-icon-box-content">
                                             <h3 className="elementor-icon-box-title">
-                                                <span>Circadia Health</span>
+                                                <a href="https://circadia.health/" target="_blank" rel="noopener noreferrer">
+                                                    <span>Circadia Health</span>
+                                                </a>
                                             </h3>
                                             <p className="elementor-icon-box-description">
                                                 Senior Frontend Engineer
@@ -373,7 +382,9 @@ export const EducationAndWork = () => {
                                     <div className="elementor-icon-box-wrapper">
                                         <div className="elementor-icon-box-content">
                                             <h3 className="elementor-icon-box-title">
-                                                <span>ABTACH LTD</span>
+                                                <a href="https://www.abtach.ae/" target="_blank" rel="noopener noreferrer">
+                                                    <span>ABTACH LTD</span>
+                                                </a>
                                             </h3>
                                             <p className="elementor-icon-box-description">
                                                 Senior Software Engineer - React Native
@@ -408,7 +419,9 @@ export const EducationAndWork = () => {
                                     <div className="elementor-icon-box-wrapper">
                                         <div className="elementor-icon-box-content">
                                             <h3 className="elementor-icon-box-title">
-                                                <span>Panacloud Pvt Ltd</span>
+                                                <a href="https://www.panacloud.com/" target="_blank" rel="noopener noreferrer">
+                                                    <span>Panacloud Pvt Ltd</span>
+                                                </a>
                                             </h3>
                                             <p className="elementor-icon-box-description">
                                                 Full Stack Developer

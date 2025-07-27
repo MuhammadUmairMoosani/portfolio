@@ -70,14 +70,14 @@ export const Hello = () => {
                         >
                             <a
                                 className="elementor-button elementor-button-link elementor-size-sm"
-                                href=""
+                                href="#contact"
                             >
                                 <span className="elementor-button-content-wrapper">
                                     <span className="elementor-button-text">Contact</span>
                                 </span>
                             </a>
                         </div>
-                        <div
+                        {/* <div
                             className="elementor-element elementor-element-7b84d76 hero-video-play-button elementor-widget elementor-widget-elementskit-video"
                             data-id="7b84d76"
                             data-element_type="widget"
@@ -101,7 +101,7 @@ export const Hello = () => {
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
                 <div

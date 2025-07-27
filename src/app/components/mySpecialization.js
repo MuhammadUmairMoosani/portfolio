@@ -74,7 +74,6 @@ export const MySpecialization = () => {
                         <div className="ekit-wid-con">
                             <div
                                 className="elementskit-advanced-slider"
-                                data-widget_settings='{"type":"advanced-slider","id":"ekit-advanced-slider881d14f","sliderOptions":{"slidesPerViewItem":4,"spaceBetweenGap":30,"sliderGrapCursor":"","sliderDirectionType":"horizontal","sliderMouseScroll":"","sliderAutoPlay":"yes","pauseOnMouseEnter":"","sliderEffect":"default","sliderThumbsShow":"","sliderThumbsOffset":null,"sliderTabItems":[{"ekit_slider_title":"Slide One","_id":"9a8f48a","ekit_slider_thumbs_image":{"url":"https:\/\/demo.awaikenthemes.com\/pixion\/wp-content\/plugins\/elementor\/assets\/images\/placeholder.png","id":"","size":""},"ekit_slider_tab_content":""},{"ekit_slider_title":"Slide Two","_id":"ee5ee5f","ekit_slider_tab_content":"881d14f***1740637028642","ekit_slider_thumbs_image":{"url":"https:\/\/demo.awaikenthemes.com\/pixion\/wp-content\/plugins\/elementor\/assets\/images\/placeholder.png","id":"","size":""}},{"_id":"09e6a14","ekit_slider_title":"","ekit_slider_thumbs_image":{"url":"https:\/\/demo.awaikenthemes.com\/pixion\/wp-content\/plugins\/elementor\/assets\/images\/placeholder.png","id":"","size":""},"ekit_slider_tab_content":""},{"_id":"3c8da49","ekit_slider_title":"","ekit_slider_thumbs_image":{"url":"https:\/\/demo.awaikenthemes.com\/pixion\/wp-content\/plugins\/elementor\/assets\/images\/placeholder.png","id":"","size":""},"ekit_slider_tab_content":""},{"_id":"b2c8910","ekit_slider_tab_content":"881d14f***1740823719884","ekit_slider_title":"","ekit_slider_thumbs_image":{"url":"https:\/\/demo.awaikenthemes.com\/pixion\/wp-content\/plugins\/elementor\/assets\/images\/placeholder.png","id":"","size":""}}],"progressBar":"","speedTime":600,"loopEnable":"yes","autoPlayDelay":3000,"breakpointsOption":{"360":{"slidesPerView":1,"spaceBetween":30},"767":{"slidesPerView":3,"spaceBetween":30},"1024":{"slidesPerView":4,"spaceBetween":30}}}}'
                             >
                                 <div className="ekit-main-swiper swiper ekit-slider-wrapper">
                                     <div
@@ -84,9 +83,6 @@ export const MySpecialization = () => {
                                     >
                                         <div className="swiper-slide ekit-swiper-slide elementor-repeater-item-9a8f48a">
                                             <div className="widgetarea_warper widgetarea_warper_editable" data-elementskit-widgetarea-key="881d14f" data-elementskit-widgetarea-index="9a8f48a">
-                                                <div className="widgetarea_warper_edit" data-elementskit-widgetarea-key="881d14f" data-elementskit-widgetarea-index="9a8f48a">
-                                                    <span>Edit Content</span>
-                                                </div>
                                                 <div className="ekit-widget-area-container">
                                                     <div data-elementor-type="wp-post" data-elementor-id="8561" className="elementor elementor-8561">
                                                         <div className="elementor-element elementor-element-957de8c e-con-full service-item e-flex e-con e-child" data-id="957de8c" data-element_type="container" data-settings='{"background_background":"classic"}'>
@@ -128,9 +124,6 @@ export const MySpecialization = () => {
                                         </div>
                                         <div className="swiper-slide ekit-swiper-slide elementor-repeater-item-09e6a14">
                                             <div className="widgetarea_warper widgetarea_warper_editable" data-elementskit-widgetarea-key="881d14f" data-elementskit-widgetarea-index="09e6a14">
-                                                <div className="widgetarea_warper_edit" data-elementskit-widgetarea-key="881d14f" data-elementskit-widgetarea-index="09e6a14">
-                                                    <span>Edit Content</span>
-                                                </div>
                                                 <div className="ekit-widget-area-container">
                                                     <div data-elementor-type="wp-post" data-elementor-id="8575" className="elementor elementor-8575">
                                                         <div className="elementor-element elementor-element-11cd500 e-con-full service-item e-flex e-con e-child" data-id="11cd500" data-element_type="container" data-settings='{"background_background":"classic"}'>
@@ -174,9 +167,6 @@ export const MySpecialization = () => {
                                         </div>
                                         <div className="swiper-slide ekit-swiper-slide elementor-repeater-item-09e6a14">
                                             <div className="widgetarea_warper widgetarea_warper_editable" data-elementskit-widgetarea-key="881d14f" data-elementskit-widgetarea-index="09e6a14">
-                                                <div className="widgetarea_warper_edit" data-elementskit-widgetarea-key="881d14f" data-elementskit-widgetarea-index="09e6a14">
-                                                    <span>Edit Content</span>
-                                                </div>
                                                 <div className="ekit-widget-area-container">
                                                     <div data-elementor-type="wp-post" data-elementor-id="8575" className="elementor elementor-8575">
                                                         <div className="elementor-element elementor-element-11cd500 e-con-full service-item e-flex e-con e-child" data-id="11cd500" data-element_type="container" data-settings='{"background_background":"classic"}'>
