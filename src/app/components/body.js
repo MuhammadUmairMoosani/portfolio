@@ -3,7 +3,8 @@ import { Contact } from "./contact";
 import { EducationAndWork } from "./educationAndWork";
 import { Hello } from "./hello";
 import { LanguagesAndTools } from "./languagesAndTools";
-import { MyPortfolio } from "./myPortfolio";
+import { MyPortfolioMobile } from "./myPortfolioMobile";
+import { MyPortfolioWeb } from "./myPortfolioWeb";
 import { MySpecialization } from "./mySpecialization";
 
 export const Body = () => {
@@ -17,7 +18,8 @@ export const Body = () => {
             <MySpecialization />
             <AboutMe />
             <LanguagesAndTools />
-            <MyPortfolio />
+            <MyPortfolioMobile />
+            <MyPortfolioWeb />
             <EducationAndWork />
             <Contact />
         </div>
