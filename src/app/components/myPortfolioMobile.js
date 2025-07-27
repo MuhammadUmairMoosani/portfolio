@@ -1,3 +1,5 @@
+import Image from 'next/image';
+
 export const MyPortfolioMobile = () => {
     return (
         <div
@@ -81,7 +83,7 @@ export const MyPortfolioMobile = () => {
                                     <article className="awaiken-portfolio-grid-item portfolio-filter-11 post-9356 awaiken-portfolio type-awaiken-portfolio status-publish has-post-thumbnail hentry awaiken-portfolio-category-web-design">
                                         <div className="awaiken-portfolio-grid-item__wrapper">
                                             <div className="awaiken-portfolio-grid-item__image">
-                                                <img
+                                                <Image
                                                     loading="lazy"
                                                     decoding="async"
                                                     width="370"
@@ -110,7 +112,7 @@ export const MyPortfolioMobile = () => {
                                     <article className="awaiken-portfolio-grid-item portfolio-filter-13 post-9354 awaiken-portfolio type-awaiken-portfolio status-publish has-post-thumbnail hentry awaiken-portfolio-category-ui-ux-design">
                                         <div className="awaiken-portfolio-grid-item__wrapper">
                                             <div className="awaiken-portfolio-grid-item__image">
-                                                <img
+                                                <Image
                                                     loading="lazy"
                                                     decoding="async"
                                                     width="370"
@@ -143,7 +145,7 @@ export const MyPortfolioMobile = () => {
                                     <article className="awaiken-portfolio-grid-item portfolio-filter-12 post-9352 awaiken-portfolio type-awaiken-portfolio status-publish has-post-thumbnail hentry awaiken-portfolio-category-web-development">
                                         <div className="awaiken-portfolio-grid-item__wrapper">
                                             <div className="awaiken-portfolio-grid-item__image">
-                                                <img
+                                                <Image
                                                     loading="lazy"
                                                     decoding="async"
                                                     width="550"

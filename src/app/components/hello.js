@@ -1,3 +1,5 @@
+import Image from 'next/image';
+
 export const Hello = () => {
     return (
         <div
@@ -36,7 +38,7 @@ export const Hello = () => {
                             data-widget_type="heading.default"
                         >
                             <h1 className="elementor-heading-title elementor-size-default">
-                                <span>I'm Muhammad Umair Moosani,</span> Software Engineer
+                                <span>I&apos;m Muhammad Umair Moosani,</span> Software Engineer
                                 Crafting Reliable Solutions
                             </h1>
                         </div>
@@ -117,7 +119,7 @@ export const Hello = () => {
                         data-settings='{"ekit_we_effect_on":"none"}'
                         data-widget_type="image.default"
                     >
-                        <img
+                        <Image
                             fetchPriority="high"
                             decoding="async"
                             width="634"

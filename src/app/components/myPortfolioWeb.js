@@ -1,3 +1,5 @@
+import Image from 'next/image';
+
 export const MyPortfolioWeb = () => {
     return (
         <div
@@ -20,7 +22,7 @@ export const MyPortfolioWeb = () => {
                         <article className="awaiken-portfolio-grid-item portfolio-filter-12 post-9352 awaiken-portfolio type-awaiken-portfolio status-publish has-post-thumbnail hentry awaiken-portfolio-category-web-development">
                             <div className="awaiken-portfolio-grid-item__wrapper">
                                 <div className="awaiken-portfolio-grid-item__image">
-                                    <img
+                                    <Image
                                         loading="lazy"
                                         decoding="async"
                                         width="900"
@@ -55,7 +57,7 @@ export const MyPortfolioWeb = () => {
                                     className="awaiken-portfolio-grid-item__image"
                                     style={{ display: 'flex', marginRight: '15%', marginLeft: '15%', marginTop: '15%' }} // wrap added for responsiveness
                                 >
-                                    <img
+                                    <Image
                                         loading="lazy"
                                         decoding="async"
                                         width="300"
@@ -66,7 +68,7 @@ export const MyPortfolioWeb = () => {
                                         sizes="(max-width: 1200px) 100vw, 1200px"
                                         style={{ flex: '1 1 0', maxWidth: '48%', }}
                                     />
-                                    <img
+                                    <Image
                                         loading="lazy"
                                         decoding="async"
                                         width="300"

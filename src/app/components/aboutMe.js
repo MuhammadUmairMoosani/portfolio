@@ -1,3 +1,5 @@
+import Image from 'next/image';
+
 export const AboutMe = () => {
   return (
     <div
@@ -24,7 +26,7 @@ export const AboutMe = () => {
               data-settings='{"ekit_we_effect_on":"none"}'
               data-widget_type="image.default"
             >
-              <img
+              <Image
                 loading="lazy"
                 decoding="async"
                 width="534"
