@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import { skills } from '../../../context';
+import { skills } from '../content';
 
 export const LanguagesAndTools = () => {
   return (
