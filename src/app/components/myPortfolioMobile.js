@@ -117,7 +117,7 @@ export const MyPortfolioMobile = () => {
                                                     decoding="async"
                                                     width="370"
                                                     height="100"
-                                                    src="/circadiahealth.png"
+                                                    src="/circadiahealth-v2.png"
                                                     className="attachment-post-thumbnail size-post-thumbnail wp-post-image"
                                                     alt="portfolio-2"
                                                     sizes="(max-width: 1200px) 100vw, 1200px"
